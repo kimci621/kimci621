@@ -1,7 +1,7 @@
-# Konichiwa 👋
+# Hi there 👋
 
 <div align="center">
-<img hight="200" width="80%" alt="GIF" align="center" src="https://ineedanime.com/wp-content/uploads/2021/09/Yamato-Kurosawa-wave-Say-I-love-you-sukitte.gif">
+<img hight="200" width="80%" alt="GIF" align="center" src="http://24.media.tumblr.com/5dadf3b08cc3974fc0d67c69a9d09a09/tumblr_mr4md87fml1rq7z94o1_400.gif">
 </div>
 
 </br>
