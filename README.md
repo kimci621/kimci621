@@ -24,7 +24,9 @@
 - ⚙️ Git
 
 </br>
-### - Learning ⌨️:
+
+
+# - Learning ⌨️:
 - ⚙️ Ruby
 - ⚙️ Ruby on Rails
 - ⚙️ Postgres
