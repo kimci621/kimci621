@@ -10,7 +10,7 @@
 
 # About ME 💬 :
 
-### - I'm 23 years frontend developer from Russia.
+### - I'm 24 years frontend developer from Russia.
 
 
 # Languages & Tools ⌨️:
