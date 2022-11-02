@@ -27,6 +27,7 @@
 
 
 # - Learning ⌨️:
+- ⚙️ NodeJS
 - ⚙️ Ruby
 - ⚙️ Ruby on Rails
 - ⚙️ Postgres
