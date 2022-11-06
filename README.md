@@ -20,6 +20,7 @@
 - ⚙️ CSS
 - ⚙️ SCSS
 - ⚙️ React
+- ⚙️ Flux(Redux, Vuex)
 - ⚙️ Vue
 - ⚙️ Git
 
