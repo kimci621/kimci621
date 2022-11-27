@@ -10,7 +10,9 @@
 
 # About ME 💬 :
 
-### - I'm 24 years frontend developer from Russia.
+### - I'm 24 years web developer from Russia.
+### - Love JavaScript and TypeScript, also amazed with Ruby
+### - Thinking about my own startup
 
 
 # Languages & Tools ⌨️:
@@ -23,13 +25,14 @@
 - ⚙️ Flux(Redux, Vuex)
 - ⚙️ Vue
 - ⚙️ Git
+- ⚙️ NodeJS
+- ⚙️ Ruby
+- ⚙️ NextJS
 
 </br>
 
 
 # - Learning ⌨️:
-- ⚙️ NodeJS
-- ⚙️ Ruby
 - ⚙️ Ruby on Rails
 - ⚙️ Postgres
 - ⚙️ Networks
@@ -45,7 +48,7 @@
 <p>
 Telegram:
 <img align="left" alt=" Reddit" width="130" hight="100" src="https://texterra.ru/upload/iblock/478/51h85qin2ayij6u9odq0xk4rtm6w5ta4/anons.webp" />
-@hexadecimal4869
+@amir_6c617469706f76
 </p>
  
 *************
