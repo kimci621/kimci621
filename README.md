@@ -34,6 +34,7 @@
 
 # - Learning ⌨️:
 - ⚙️ Ruby on Rails
+- ⚙️ SQL
 - ⚙️ Postgres
 - ⚙️ Networks
 - ⚙️ Algorithms and data structures
