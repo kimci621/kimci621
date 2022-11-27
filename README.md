@@ -11,7 +11,7 @@
 # About ME 💬 :
 
 ### - I'm 24 years web developer from Russia.
-### - Love JavaScript and TypeScript, also amazed with Ruby
+### - Love JavaScript and TypeScript, also amazed from Ruby
 ### - Thinking about my own startup
 
 
