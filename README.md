@@ -18,19 +18,18 @@
 # Languages & Tools ⌨️:
 - ⚙️ JavaScript
 - ⚙️ TypeScript
+- ⚙️ Ruby
 - ⚙️ HTML
 - ⚙️ CSS
-- ⚙️ SCSS
 - ⚙️ React
-- ⚙️ Flux(Redux, Vuex)
 - ⚙️ Vue
+- ⚙️ NextJS
+- ⚙️ SCSS, SASS
+- ⚙️ Flux(Redux, Vuex)
 - ⚙️ Git
 - ⚙️ NodeJS
-- ⚙️ Ruby
-- ⚙️ NextJS
 
 </br>
-
 
 # - Learning ⌨️:
 - ⚙️ Ruby on Rails
