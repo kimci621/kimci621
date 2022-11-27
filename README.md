@@ -17,6 +17,7 @@
 
 # Languages & Tools ⌨️:
 - ⚙️ JavaScript
+- ⚙️ NodeJS
 - ⚙️ TypeScript
 - ⚙️ Ruby
 - ⚙️ HTML
@@ -27,7 +28,7 @@
 - ⚙️ SCSS, SASS
 - ⚙️ Flux(Redux, Vuex)
 - ⚙️ Git
-- ⚙️ NodeJS
+
 
 </br>
 
