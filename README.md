@@ -40,9 +40,6 @@
 - ⚙️ Algorithms and data structures
 
 </br>
-</br>
-</br>
-
 
 # Contact Me :
 
