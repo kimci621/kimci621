@@ -1,4 +1,4 @@
-# Hi there 👋
+Hi there 👋
 
 <div align="center">
 <img height="400" width="100%" alt="GIF" align="center" src="./assets/cowboy-bebop-ed.gif">
@@ -6,12 +6,12 @@
 
 </br>
 </br>
-# About ME 💬 :</br></br>
+About ME 💬 :</br></br>
 ### - I'm 24 years web developer.</br>
 ### - Love JavaScript and TypeScript, also amazed from Ruby</br>
 ### - Thinking about my own startup
 
-# Languages & Tools ⌨️:
+Languages & Tools ⌨️:
 - ⚙️ JavaScript
 - ⚙️ TypeScript
 - ⚙️ NodeJS(Express, Fastify, Restify)
@@ -27,7 +27,7 @@
 - ⚙️ Testing with Jest
 
 </br>
-# Learning ⌨️:
+Learning ⌨️:
 </br>
 - ⚙️ DevOps for web and frontend</br>
 - ⚙️ Ruby on Rails</br>
