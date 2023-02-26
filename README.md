@@ -1,7 +1,7 @@
 # Hi there 👋
 
 <div align="center">
-<img height="350" width="80%" alt="GIF" align="center" src="http://24.media.tumblr.com/5dadf3b08cc3974fc0d67c69a9d09a09/tumblr_mr4md87fml1rq7z94o1_400.gif">
+<img height="350" width="80%" alt="GIF" align="center" src="./assets/cowboy-bebop-ed.gif">
 </div>
 
 </br>
