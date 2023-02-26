@@ -42,8 +42,8 @@ Telegram:
 <img align="left" alt=" Reddit" width="130" hight="100" src="https://texterra.ru/upload/iblock/478/51h85qin2ayij6u9odq0xk4rtm6w5ta4/anons.webp" />
 @amir_6c617469706f76
 </p>
-
-<div align="center">
-<img height="350" width="80%" alt="GIF" align="center" src="./assets/cowboy-bebop-ed.gif">
-</div>
 *************
+</br>
+<div align="center">
+<img height="300" width="100%" alt="GIF" align="center" src="./assets/see-you-space-cowboy.gif">
+</div>
