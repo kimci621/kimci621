@@ -11,19 +11,19 @@
 ### - Thinking about my own startup
 
 <h3>Languages & Tools ⌨️:</h3>
-- ⚙️ JavaScript
-- ⚙️ TypeScript
-- ⚙️ NodeJS(Express, Fastify, Restify)
-- ⚙️ Ruby
-- ⚙️ HTML(Pug, Handlebars, HAML)
-- ⚙️ CSS(Sass, Scss, Stylus, PostCSS)
-- ⚙️ React
-- ⚙️ Vue(2, 3)
-- ⚙️ Nuxt, Next
-- ⚙️ Flux(Redux, Vuex, Pinia)
-- ⚙️ Git
-- ⚙️ Webpack, Babel, Gulp, eslint
-- ⚙️ Testing with Jest
+- ⚙️ JavaScript</br>
+- ⚙️ TypeScript</br>
+- ⚙️ NodeJS(Express, Fastify, Restify)</br>
+- ⚙️ Ruby</br>
+- ⚙️ HTML(Pug, Handlebars, HAML)</br>
+- ⚙️ CSS(Sass, Scss, Stylus, PostCSS)</br>
+- ⚙️ React</br>
+- ⚙️ Vue(2, 3)</br>
+- ⚙️ Nuxt, Next</br>
+- ⚙️ Flux(Redux, Vuex, Pinia)</br>
+- ⚙️ Git</br>
+- ⚙️ Webpack, Babel, Gulp, eslint</br>
+- ⚙️ Testing with Jest</br>
 
 </br>
 <h3>Learning ⌨️:</h3>
@@ -41,7 +41,6 @@ Telegram:
 <img align="left" alt=" Reddit" width="130" hight="100" src="https://texterra.ru/upload/iblock/478/51h85qin2ayij6u9odq0xk4rtm6w5ta4/anons.webp" />
 @amir_6c617469706f76
 </p>
-*************
 </br>
 </br>
 
