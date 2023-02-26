@@ -44,6 +44,8 @@ Telegram:
 </p>
 *************
 </br>
+</br>
+
 <div align="center">
 <img height="300" width="100%" alt="GIF" align="center" src="./assets/see-you-space-cowboy.gif">
 </div>
