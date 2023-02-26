@@ -23,7 +23,7 @@
 - ⚙️ Flux(Redux, Vuex, Pinia)</br>
 - ⚙️ Git</br>
 - ⚙️ Webpack, Babel, Gulp, eslint</br>
-- ⚙️ Testing with Jest</br>
+- ⚙️ Testing with Jest
 
 </br>
 <h3>Learning ⌨️:</h3>
