@@ -1,14 +1,14 @@
 # Hi there 👋
 
 <div align="center">
-<img height="200" width="80%" alt="GIF" align="center" src="http://24.media.tumblr.com/5dadf3b08cc3974fc0d67c69a9d09a09/tumblr_mr4md87fml1rq7z94o1_400.gif">
+<img height="300" width="80%" alt="GIF" align="center" src="http://24.media.tumblr.com/5dadf3b08cc3974fc0d67c69a9d09a09/tumblr_mr4md87fml1rq7z94o1_400.gif">
 </div>
 
 </br>
 </br>
 # About ME 💬 :
-### - I'm 24 years web developer from Russia.
-### - Love JavaScript and TypeScript, also amazed from Ruby
+### - I'm 24 years web developer from Russia.</br>
+### - Love JavaScript and TypeScript, also amazed from Ruby</br>
 ### - Thinking about my own startup
 
 # Languages & Tools ⌨️:
