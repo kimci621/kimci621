@@ -6,7 +6,7 @@
 
 </br>
 </br>
-# About ME 💬 :
+# About ME 💬 :</br></br>
 ### - I'm 24 years web developer from Russia.</br>
 ### - Love JavaScript and TypeScript, also amazed from Ruby</br>
 ### - Thinking about my own startup
