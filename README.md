@@ -27,7 +27,8 @@
 - ⚙️ Testing with Jest
 
 </br>
-# - Learning ⌨️:</br>
+# Learning ⌨️:
+</br>
 - ⚙️ DevOps for web and frontend</br>
 - ⚙️ Ruby on Rails</br>
 - ⚙️ SQL</br>
@@ -36,7 +37,8 @@
 - ⚙️ Algorithms and data structures
 </br>
 
-# Contact Me:</br>
+# Contact Me:
+</br>
 <p>
 Telegram:
 <img align="left" alt=" Reddit" width="130" hight="100" src="https://texterra.ru/upload/iblock/478/51h85qin2ayij6u9odq0xk4rtm6w5ta4/anons.webp" />
