@@ -1,7 +1,7 @@
 # Hi there 👋
 
 <div align="center">
-<img height="350" width="80%" alt="GIF" align="center" src="./assets/cowboy-bebop-ed.gif">
+<img height="400" width="100%" alt="GIF" align="center" src="./assets/cowboy-bebop-ed.gif">
 </div>
 
 </br>
