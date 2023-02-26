@@ -28,11 +28,11 @@
 
 </br>
 # - Learning ⌨️:</br>
-- ⚙️ DevOps for web and frontend
-- ⚙️ Ruby on Rails
-- ⚙️ SQL
-- ⚙️ Postgres
-- ⚙️ Networks
+- ⚙️ DevOps for web and frontend</br>
+- ⚙️ Ruby on Rails</br>
+- ⚙️ SQL</br>
+- ⚙️ Postgres</br>
+- ⚙️ Networks</br>
 - ⚙️ Algorithms and data structures
 </br>
 
