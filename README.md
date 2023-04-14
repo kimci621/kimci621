@@ -13,7 +13,7 @@
 <h3>Languages & Tools ⌨️:</h3>
 - ⚙️ JavaScript</br>
 - ⚙️ TypeScript</br>
-- ⚙️ NodeJS(Express, Fastify, Restify)</br>
+- ⚙️ NodeJS(Express, Fastify, Restify, Web Components)</br>
 - ⚙️ Ruby</br>
 - ⚙️ HTML(Pug, Handlebars, HAML)</br>
 - ⚙️ CSS(Sass, Scss, Stylus, PostCSS)</br>
