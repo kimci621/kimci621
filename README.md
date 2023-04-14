@@ -13,9 +13,9 @@
 <h3>Languages & Tools ⌨️:</h3>
 - ⚙️ JavaScript</br>
 - ⚙️ TypeScript</br>
-- ⚙️ NodeJS(Express, Fastify, Restify, Web Components)</br>
+- ⚙️ NodeJS(Express, Fastify, Restify)</br>
 - ⚙️ Ruby</br>
-- ⚙️ HTML(Pug, Handlebars, HAML)</br>
+- ⚙️ HTML(Pug, Handlebars, HAML, Web Components)</br>
 - ⚙️ CSS(Sass, Scss, Stylus, PostCSS)</br>
 - ⚙️ React</br>
 - ⚙️ Vue(2, 3)</br>
