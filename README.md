@@ -17,19 +17,17 @@
 - ⚙️ Ruby</br>
 - ⚙️ HTML(Pug, Handlebars, HAML, Web Components)</br>
 - ⚙️ CSS(Sass, Scss, Stylus, PostCSS)</br>
-- ⚙️ React</br>
-- ⚙️ Vue(2, 3)</br>
-- ⚙️ Nuxt, Next</br>
-- ⚙️ Flux(Redux, Vuex, Pinia)</br>
+- ⚙️ React, Next</br>
+- ⚙️ Vue(2, 3), Nuxt</br>
+- ⚙️ Flux architecture(Redux, Vuex, Pinia)</br>
 - ⚙️ Git</br>
 - ⚙️ Webpack, Babel, Gulp, eslint</br>
-- ⚙️ Testing with Jest
+- ⚙️ Jest
 
 </br>
 <h3>Learning ⌨️:</h3>
 - ⚙️ DevOps for web and frontend</br>
 - ⚙️ Ruby on Rails</br>
-- ⚙️ SQL</br>
 - ⚙️ Postgres</br>
 - ⚙️ Networks</br>
 - ⚙️ Algorithms and data structures
