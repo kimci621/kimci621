@@ -6,11 +6,9 @@
 
 </br>
 <h3>About ME 💬 :</h3>
-```
-> I'm 24 years web developer</br>
-> Love JavaScript and TypeScript</br>
-> In search of zen
-```
+<p>- I'm 24 years web developer</p>
+<p>- Love JavaScript and TypeScript</p>
+<p>- In search of zen</p>
 
 <h3>Languages & Tools ⌨️:</h3>
 > JavaScript</br>
