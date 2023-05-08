@@ -5,14 +5,14 @@
 </div>
 
 </br>
-<h3>**About ME 💬 :**</h3>
+<h3>About ME 💬 :</h3>
 ```
 > I'm 24 years web developer</br>
 > Love JavaScript and TypeScript</br>
 > In search of zen
 ```
 
-<h3>**Languages & Tools ⌨️:**</h3>
+<h3>Languages & Tools ⌨️:</h3>
 > JavaScript</br>
 > TypeScript</br>
 > NodeJS(worked in pet projects with Express, Fastify, Restify)</br>
@@ -27,14 +27,14 @@
 > some knowledge of Ruby and Ruby on Rails</br
 
 </br>
-<h3>**Learning ⌨️:**</h3>
+<h3>Learning ⌨️:</h3>
 > DevOps for web and frontend</br>>
 > Postgres</br>
 > Networks</br>
 > Algorithms and data structures
 </br>
 
-<h3>**Contact Me:**</h3>
+<h3>Contact Me:</h3>
 <p>
 Telegram:
 <img align="left" alt=" Reddit" width="130" hight="100" src="https://texterra.ru/upload/iblock/478/51h85qin2ayij6u9odq0xk4rtm6w5ta4/anons.webp" />
