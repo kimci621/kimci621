@@ -5,35 +5,36 @@
 </div>
 
 </br>
-<h3>About ME 💬 :</h3>
-### - I'm 24 years web developer.</br>
-### - Love JavaScript and TypeScript, also amazed from Ruby</br>
-### - Thinking about my own startup
+<h3>**About ME 💬 :**</h3>
+```
+> I'm 24 years web developer</br>
+> Love JavaScript and TypeScript</br>
+> In search of zen
+```
 
-<h3>Languages & Tools ⌨️:</h3>
-- ⚙️ JavaScript</br>
-- ⚙️ TypeScript</br>
-- ⚙️ NodeJS(Express, Fastify, Restify)</br>
-- ⚙️ Ruby</br>
-- ⚙️ HTML(Pug, Handlebars, HAML, Web Components)</br>
-- ⚙️ CSS(Sass, Scss, Stylus, PostCSS)</br>
-- ⚙️ React, Next</br>
-- ⚙️ Vue(2, 3), Nuxt</br>
-- ⚙️ Flux architecture(Redux, Vuex, Pinia)</br>
-- ⚙️ Git</br>
-- ⚙️ Webpack, Babel, Gulp, eslint</br>
-- ⚙️ Jest
+<h3>**Languages & Tools ⌨️:**</h3>
+> JavaScript</br>
+> TypeScript</br>
+> NodeJS(worked in pet projects with Express, Fastify, Restify)</br>
+> HTML(Pug, Handlebars, HAML, Web Components)</br>
+> CSS(SCSS)</br>
+> React, Next</br>
+> Vue(2, 3), Nuxt</br>
+> Flux architecture(worked with Redux, Vuex)</br>
+> Git</br>
+> Webpack, Babel, Gulp</br>
+> Jest
+> some knowledge of Ruby and Ruby on Rails</br
 
 </br>
-<h3>Learning ⌨️:</h3>
-- ⚙️ DevOps for web and frontend</br>
-- ⚙️ Ruby on Rails</br>
-- ⚙️ Postgres</br>
-- ⚙️ Networks</br>
-- ⚙️ Algorithms and data structures
+<h3>**Learning ⌨️:**</h3>
+> DevOps for web and frontend</br>>
+> Postgres</br>
+> Networks</br>
+> Algorithms and data structures
 </br>
 
-<h3>Contact Me:</h3>
+<h3>**Contact Me:**</h3>
 <p>
 Telegram:
 <img align="left" alt=" Reddit" width="130" hight="100" src="https://texterra.ru/upload/iblock/478/51h85qin2ayij6u9odq0xk4rtm6w5ta4/anons.webp" />
