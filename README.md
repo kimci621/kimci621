@@ -21,7 +21,7 @@
 > Flux architecture(worked with Redux, Vuex)</br>
 > Git</br>
 > Webpack, Babel, Gulp</br>
-> Jest
+> Jest</br>
 > some knowledge of Ruby and Ruby on Rails</br
 
 </br>
