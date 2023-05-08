@@ -26,7 +26,7 @@
 
 </br>
 <h3>Learning ⌨️:</h3>
-> DevOps for web and frontend</br>>
+> DevOps for web and frontend</br>
 > Postgres</br>
 > Networks</br>
 > Algorithms and data structures
