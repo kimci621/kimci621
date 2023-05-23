@@ -13,12 +13,12 @@
 <h3>Languages & Tools ⌨️:</h3>
 > JavaScript</br>
 > TypeScript</br>
-> NodeJS(worked in pet projects with Express, Fastify, Restify)</br>
+> NodeJS(pet projects with Express, Fastify, Restify)</br>
 > HTML(Pug, Handlebars, HAML, Web Components)</br>
 > CSS(SCSS)</br>
 > React, Next</br>
 > Vue(2, 3), Nuxt</br>
-> Flux architecture(worked with Redux, Vuex)</br>
+> Flux architecture(Redux, Vuex)</br>
 > Git</br>
 > Webpack, Babel, Gulp</br>
 > Jest</br>
