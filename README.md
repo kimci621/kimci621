@@ -6,7 +6,7 @@
 
 </br>
 <h3>About ME 💬 :</h3>
-<p>- I'm 24 years web developer</p>
+<p>- I'm 25 years web developer</p>
 <p>- Love JavaScript and TypeScript</p>
 <p>- In search of zen</p>
 
@@ -17,11 +17,11 @@
 > HTML(Pug, Handlebars, HAML, Web Components)</br>
 > CSS(SCSS)</br>
 > React, Next</br>
-> Vue(2, 3), Nuxt</br>
-> Flux architecture(Redux, Vuex)</br>
-> Git</br>
-> Webpack, Babel, Gulp</br>
-> Jest</br>
+> Vue(2, 3, option api, composition api), Nuxt(2, 3)</br>
+> Flux architecture(Redux, Vuex, Pinia)</br>
+> Git(git-flow, pipeline management, git tree manipulation)</br>
+> Vite, Webpack, Babel, Gulp</br>
+> Vitest, Jest</br>
 > some knowledge of Ruby and Ruby on Rails</br
 
 </br>
