@@ -6,7 +6,7 @@
 
 </br>
 <h3>About ME 💬 :</h3>
-<p>- I'm 25 years web developer</p>
+<p>- I'm 25 years hypertext manipulator</p>
 <p>- Love JavaScript and TypeScript</p>
 <p>- In search of zen</p>
 
